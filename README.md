@@ -11,7 +11,7 @@ Lc0 can be acquired either via a git clone or an archive download from  GitHub.
 
 For essentially all purposes, including selfplay game generation and match play, we highly recommend using the latest `release/version` branch (for example `release/0.32`), which is equivalent to using the latest version tag.
 
-Versioning follows the Semantic Versioning guidelines, with major, minor and patch sections. The training server enforces game quality using the versions output by the client and engine.
+Versioning follows the Semantic Versioning guidelines , with major, minor and patch sections. The training server enforces game quality using the versions output by the client and engine.
 
 Download using git:
 
